@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  user:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-10-08T17:18:00.421116+02:00"
+    description: user service chart
+    digest: 8a2c23649be4e7b3b0436f906f7fcbdf6026c9bc907c482c970cc8838cbc199c
+    name: user
+    type: application
+    urls:
+    - https://digital-product-store.github.io/helm_charts/user-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-08T17:18:00.420906+02:00"

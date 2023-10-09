@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  reqauth:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-10-09T11:08:52.613533+02:00"
+    description: istio request authentication chart
+    digest: 8064faf361c012363b69dd3b013039fcf1d19bf22391730c6a6b1e221a72b516
+    name: reqauth
+    type: application
+    urls:
+    - https://digital-product-store.github.io/helm_charts/reqauth-0.1.0.tgz
+    version: 0.1.0
   user:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-10-08T17:18:00.421116+02:00"
+    created: "2023-10-09T11:08:52.613815+02:00"
     description: user service chart
     digest: 8a2c23649be4e7b3b0436f906f7fcbdf6026c9bc907c482c970cc8838cbc199c
     name: user
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://digital-product-store.github.io/helm_charts/user-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-08T17:18:00.420906+02:00"
+generated: "2023-10-09T11:08:52.613112+02:00"
